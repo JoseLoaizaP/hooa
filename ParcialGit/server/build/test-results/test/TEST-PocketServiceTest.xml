@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PocketServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-10-17T17:29:57.380Z" hostname="PIERRECUEVAS" time="0.137">
+  <properties/>
+  <testcase name="A_testAddPocket" classname="PocketServiceTest" time="0.029"/>
+  <testcase name="B_testDepositPocket" classname="PocketServiceTest" time="0.002"/>
+  <testcase name="C_testWithdrawPocket" classname="PocketServiceTest" time="0.002"/>
+  <testcase name="D_testDepositPocketFailed" classname="PocketServiceTest" time="0.002"/>
+  <testcase name="E_testWithdrawPocketFailed" classname="PocketServiceTest" time="0.001"/>
+  <testcase name="F_testGetAccount" classname="PocketServiceTest" time="0.001"/>
+  <testcase name="G_testDepositAccount" classname="PocketServiceTest" time="0.002"/>
+  <testcase name="H_testConcurrence" classname="PocketServiceTest" time="0.098"/>
+  <system-out><![CDATA[Starting test...
+Server started on port 5000
+PocketServiceTest$Response@4149c063
+PocketServiceTest$Response@222a59e6
+PocketServiceTest$Response@6c7a164b
+PocketServiceTest$Response@4c2bb6e0
+PocketServiceTest$Response@3e62d773
+PocketServiceTest$Response@4ef74c30
+PocketServiceTest$Response@7283d3eb
+Total time for 100 requests: 70 ms
+PocketServiceTest$Response@163370c2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

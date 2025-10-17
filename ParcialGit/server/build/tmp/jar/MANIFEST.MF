@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: Server
+Class-Path: C:\Users\pierr\Downloads\parcial2-g1-cristalNova\parcial2-g1
+ -cristalNova\libs\gson-2.13.2.jar:C:\Users\pierr\Downloads\parcial2-g1-
+ cristalNova\parcial2-g1-cristalNova\libs\h2-2.4.240.jar:C:\Users\pierr\
+ Downloads\parcial2-g1-cristalNova\parcial2-g1-cristalNova\libs\hamcrest
+ -3.0.jar:C:\Users\pierr\Downloads\parcial2-g1-cristalNova\parcial2-g1-c
+ ristalNova\libs\junit-4.13.2.jar
+
